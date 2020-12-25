@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+HI All!
+
+Naveen here, i like python and html.
